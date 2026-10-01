@@ -11,10 +11,10 @@ function Hero() {
         <section className="w-full bg-background flex sm:flex-row flex-col items-center font-sans">
  
             <div className="relative object-contain">
-                <Image src="/images/Hero.jpg" height={1200} width={2400} alt="" className="w-screen sm:h-[640px] h-screen object-cover " />
+                <Image src="/images/Hero.jpg" height={1200} width={2400} alt="" className="w-screen sm:h-[640px] h-[1080px] object-cover " />
                 
                 <div className="absolute sm:top-1/3 top-1/2 sm:-translate-y-1/3 -translate-y-1/2 sm:left-1/2 sm:-translate-x-1/2 sm:px-0 px-3 left-0 z-0 sm:max-w-[1280px] 
-                    w-full flex sm:flex-row flex-col gap-3 sm:mt-18 mt-0">
+                    w-full flex sm:flex-row flex-col sm:gap-3 gap-24 sm:mt-18 mt-0">
 
                     <div className="flex-4 flex flex-col gap-3 sm:mt-0 mt-24 sm:px-0 px-3">
                         <div className="sm:text-6xl text-5xl font-semibold text-[#343D46] flex flex-col">
