@@ -5,7 +5,7 @@
 :root {
   --background: #ffffff;
   --foreground: #343D46;
-  --primary: #242D36;
+  --primary: #3d4c5c;
   --secondary:  #A4B4C2;
   --accent: #B59C74;
   --border: #E5E7EB;
@@ -15,7 +15,7 @@
 .dark {
   --background: #343D46;
   --foreground: #ffffff;
-  --primary: #A4B4C2;
+  --primary: #3d4c5c;
   --border: #374151;
   --card: #181A19;
 }
